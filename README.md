@@ -1,5 +1,7 @@
 # NISTIR-8374-Ransomware
 
+![image](overview.jpeg)
+
 ## NISTIR 8374
 Ransomware Risk Management: A Cybersecurity Framework Profile
 ## Date Published
